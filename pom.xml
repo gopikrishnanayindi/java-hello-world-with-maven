@@ -47,6 +47,6 @@
                 </executions>
             </plugin>
         </plugins>
-        <finalName>java-hello-world-with-maven</finalname>
+        <finalName>java-hello-world-with-maven</finalName>
     </build>
 </project>
